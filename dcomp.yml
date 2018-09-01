@@ -8,4 +8,4 @@ services:
     environment:
         - serviceRootUrl=http://pavos-master.teco.edu/
     ports:
-      - 8082:8080
+      - 8084:8080
