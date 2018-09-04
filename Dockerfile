@@ -11,5 +11,5 @@ ADD web.xml /usr/local/tomcat/conf/web.xml
 
 RUN mkdir /usr/pke/exports
 RUN mkdir /usr/pke/status
-ADD froststealer.csv /usr/pke/exports/froststealer.csv
+#ADD froststealer.csv /usr/pke/exports/froststealer.csv
 
